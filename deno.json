@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --allow-env --env-file --watch ./core/server/main.ts"
+  },
+  "imports": {}
+}
