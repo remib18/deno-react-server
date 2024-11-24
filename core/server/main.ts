@@ -1,4 +1,4 @@
-import {Middleware, Server} from '../core/server.ts';
+import {Middleware, Server} from './server.ts';
 
 const server = new Server();
 
