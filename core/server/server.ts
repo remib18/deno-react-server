@@ -1,4 +1,4 @@
-import { allowedLogLevels, Logger, LogLevel } from "./logger.ts";
+import { allowedLogLevels, Logger, LogLevel } from "../logger.ts";
 
 type HTTPMethod = "GET" | "POST" | "PUT" | "DELETE" | "PATCH";
 
